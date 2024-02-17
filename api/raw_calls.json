@@ -1,0 +1,24 @@
+{
+    "calls": {
+        "AAC": {
+            "initialized": true,
+            "method": "get",
+            "name": "Find",
+            "publish_as": "data",
+            "rank": 0,
+            "ret_value": "api.1708161107523x933105309646585900.plugin_api.AAC",
+            "should_reinitialize": true,
+            "types": "{\"plugin_api.AAC\":{\"caption\":\"Find\",\"fields\":{\"_p_frameCount\":{\"ret_value\":\"number\",\"caption\":\"frameCount\",\"sample_value\":6090702,\"path\":[\"frameCount\"]},\"_p_error\":{\"ret_value\":\"text\",\"caption\":\"error\",\"sample_value\":\"\",\"path\":[\"error\"]},\"_p_result\":{\"ret_value\":\"list.api.1708161107523x933105309646585900.plugin_api.AAC.result\",\"caption\":\"result\",\"path\":[\"result\"]}}},\"plugin_api.AAC.result\":{\"caption\":\"Find result\",\"fields\":{\"_p_anilist\":{\"ret_value\":\"number\",\"caption\":\"anilist\",\"sample_value\":21034,\"path\":[\"anilist\"]},\"_p_filename\":{\"ret_value\":\"text\",\"caption\":\"filename\",\"sample_value\":\"[Leopard-Raws] Gochuumon wa Usagi Desu ka 2nd - 01 RAW (KBS 1280x720 x264 AAC).mp4\",\"path\":[\"filename\"]},\"_p_episode\":{\"ret_value\":\"number\",\"caption\":\"episode\",\"sample_value\":1,\"path\":[\"episode\"]},\"_p_from\":{\"ret_value\":\"number\",\"caption\":\"from\",\"sample_value\":288.58,\"path\":[\"from\"]},\"_p_to\":{\"ret_value\":\"number\",\"caption\":\"to\",\"sample_value\":292.67,\"path\":[\"to\"]},\"_p_similarity\":{\"ret_value\":\"number\",\"caption\":\"similarity\",\"sample_value\":0.99,\"path\":[\"similarity\"]},\"_p_video\":{\"ret_value\":\"text\",\"caption\":\"video\",\"sample_value\":\"https://media.trace.moe/video/21034/%5BLeopard-Raws%5D%20Gochuumon%20wa%20Usagi%20Desu%20ka%202nd%20-%2001%20RAW%20(KBS%201280x720%20x264%20AAC).mp4?t=290.625&now=1708164000&token=89FK1MNxgZ0jkvJQCyCLJASrues\",\"path\":[\"video\"]},\"_p_image\":{\"ret_value\":\"text\",\"caption\":\"image\",\"sample_value\":\"https://media.trace.moe/image/21034/%5BLeopard-Raws%5D%20Gochuumon%20wa%20Usagi%20Desu%20ka%202nd%20-%2001%20RAW%20(KBS%201280x720%20x264%20AAC).mp4.jpg?t=290.625&now=1708164000&token=d8eNPkqluladSTKWcYCt9nQPAY8\",\"path\":[\"image\"]}}}}",
+            "url": "https://api.trace.moe/search?url=[imgUrl]",
+            "url_params": {
+                "AAD": {
+                    "doc": "Url of the anime capture to identify",
+                    "key": "imgUrl",
+                    "private": true,
+                    "value": "https://images.plurk.com/32B15UXxymfSMwKGTObY5e.jpg"
+                }
+            }
+        }
+    },
+    "human": "Anime Scene Finder"
+}

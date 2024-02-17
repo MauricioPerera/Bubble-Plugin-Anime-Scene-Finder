@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "media"
+    },
+    "description": "The \"Anime Scene Finder\" plugin for Bubble allows users to search and identify anime scenes by comparing images, screenshots or GIFs with an extensive database of anime scenes. Using the powerful Trace Moe API /search endpoint, this plugin offers a fast and accurate way to find detailed information about specific anime scenes, including the anime title, episode number, exact timestamp, and a thumbnail. of the scene.\n\nMain Features:\n\n     Image Search: Allows users to upload or provide image URLs to search for matches in the anime database.\n     Detailed Results: Displays accurate information about matching scenes, including anime title, episode, and timestamp.\n     Scene Preview: Provides thumbnails of matching scenes for quick viewing.\n     Ease of Use: Simple integration with Bubble applications, allowing users to search for anime without leaving the platform.\n     Customization: Options to customize the presentation of results and adapt the functionality to the specific needs of the application.\n\nUse cases:\n\n     Identification of anime scenes for references in discussions or forums.\n     Search for the origin of anime images or GIFs shared on social networks.\n     Discovering new anime through scene exploration.\n     Creation of databases or catalogs of anime scenes for fan projects.",
+    "image": "//meta-q.cdn.bubble.io/f1708161382937x588622374195501200/Disen%CC%83o%20sin%20ti%CC%81tulo.png",
+    "license": "open_source",
+    "link": "https://rckflr.party",
+    "name": "Anime Scene Finder",
+    "plugin_instructions": "To start using the \"Anime Scene Finder\" plugin in your Bubble app, simply install it from the Bubble marketplace and configure the API call by following the documentation provided. Once set up, you can incorporate anime search functionality into your workflows and UI elements as needed."
+}
